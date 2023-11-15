@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__link {
+  padding: 10px;
+}/*# sourceMappingURL=style.css.map */
